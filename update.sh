@@ -10,5 +10,8 @@ brew cleanup
 echo "\n🏥 brew doctor\n"
 brew doctor
 
+echo "\n🔄 omz update\n"
+omz update
+
 echo "\n🍎 mas update\n"
 mas upgrade
