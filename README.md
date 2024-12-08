@@ -3,7 +3,7 @@
 ### Run this script
 
 ```bash
-zsh auto_update.sh
+zsh update.sh
 ```
 
 ### Description
